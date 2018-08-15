@@ -49,8 +49,8 @@ public abstract class Paginable {
 	
   // The page index will advance
 	public void nextPage() { 
-    isNextPage(true); 
-  }
+    		isNextPage(true); 
+  	}
   
   // The page index will descend
 	public void previousPage() {
