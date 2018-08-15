@@ -4,8 +4,6 @@
 //                                                          //
 // // // // // // // // // // // // // // // // // // // // //
 
-package utils;
-
 import java.util.List;
 
 import org.bukkit.inventory.Inventory;
